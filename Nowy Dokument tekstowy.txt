@@ -1,4 +1,4 @@
 1. Poduczyć się htmla , tabelki itp.
 2.skrypty php , przypisanie , zwracanie zapytania i wysyłanie
-3.Powtórzyć całego JS od podstaw 
-4.
+3.Powtórzyć całego JS od podstaw
+4.Zapytania złożone z joinami itp.
