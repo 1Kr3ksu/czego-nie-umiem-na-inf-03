@@ -2,3 +2,10 @@
 2.skrypty php , przypisanie , zwracanie zapytania i wysyłanie
 3.Powtórzyć całego JS od podstaw
 4.Zapytania złożone z joinami itp.
+
+
+Skrypt 1
+Wysyła do bazy danych zapytanie 2
+W każdym wierszu tabeli, w odpowiednich komórkach, wyświetlane są zwrócone zapytaniem kolejne wiersze z bazy
+Skrypt 2
+Wysyła do bazy danych zmodyfikowane zapytanie 4, w ten sposób, że dane do zapytania są pobrane z formularza. Zapytanie jest wysyłane tylko wtedy, gdy podano dane w formularzu , wyslanie calej tablei 
